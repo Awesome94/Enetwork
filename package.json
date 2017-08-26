@@ -1,0 +1,11 @@
+{
+  "name": "Enetwork",
+  "version": "0.0.1",
+  "devDependencies": {
+    "angular": "^1.6.4",
+    "body-parser": "^1.17.2",
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.8"
+  }
+}
